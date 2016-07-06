@@ -1,5 +1,10 @@
 # regex-cheatsheet
 
+markdown sucks...
+
+
+[ see google docs version ](https://docs.google.com/spreadsheets/d/13SBG5RT96XueNl7UP6C-QMAo99RLxz2ms4yyGx_jSuo/pubhtml?gid=0&single=true)
+
 
 simple | grep | egrep | sed  | awk  | PCRE: perl java javascript | comment
 -------|------|-------|------|------|----------------------------|------------- 
