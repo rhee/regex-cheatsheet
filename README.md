@@ -6,7 +6,7 @@ markdown sucks...
 [ see google docs version ](https://docs.google.com/spreadsheets/d/13SBG5RT96XueNl7UP6C-QMAo99RLxz2ms4yyGx_jSuo/pubhtml?gid=0&single=true)
 
 
-    Note: for sed, tokens escaped by `\` could be a GNU extension, and may not work for non-linux (i.e.: mac os) sed
+Note: for sed, tokens escaped by `\` could be a GNU extension, and may not work for non-linux (i.e.: mac os) sed
 
 
 simple | grep | egrep | sed  | awk  | PCRE: perl java javascript | comment
