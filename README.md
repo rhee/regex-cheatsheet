@@ -9,7 +9,7 @@ markdown sucks...
 Note: for sed, tokens escaped by `\` could be a GNU extension, and may not work for non-linux (i.e.: mac os) sed
 
 
-simple | grep | egrep | sed  | awk  | PCRE: perl java javascript | comment
+simple | grep | egrep | [sed](http://www.gnu.org/software/sed/manual/html_node/Regular-Expressions.html#Regular-Expressions)  | awk  | PCRE: perl java javascript | comment
 -------|------|-------|------|------|----------------------------|------------- 
 `^`    | `^`  |  `^`  | `^`  | `^`  | `^`  | &nbsp;
 `.`    | `.`  | `.`  | `.`  | `.`  | `.` | &nbsp;
@@ -28,7 +28,7 @@ _a_&vert;_b_  |_a_\\&vert;_b_  |_a_&vert;_b_ | _a_\\&vert;_b_ | _a_&vert;_b_ | _
 `[:alpha:]` | | | | `[:alpha:]` | `[:alpha:]` or `\p{alpha}` | &nbsp;
 `[:blank:]` | | | | `[:blank:]` | `[:blank:]` or `\p{blank}` | &nbsp;
 `[:cntrl:]` | | | | `[:cntrl:]` | `[:cntrl:]` or `\p{cntrl}` | &nbsp;
-`[:digit:]` | | | | `[:digit:]` | `[:digit:]` or `\p{digit}` | &nbsp;
+`[:digit:]` | | | `[[:digit:]]` | `[:digit:]` | `[:digit:]` or `\p{digit}` | &nbsp;
 `[:graph:]` | | | | `[:graph:]` | `[:graph:]` or `\p{graph}` | &nbsp;
 `[:lower:]` | | | | `[:lower:]` | `[:lower:]` or `\p{lower}` | &nbsp;
 `[:print:]` | | | | `[:print:]` | `[:print:]` or `\p{print}` | &nbsp;
