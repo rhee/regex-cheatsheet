@@ -10,7 +10,7 @@ Note: for sed, tokens escaped by `\` could be a GNU extension, and may not work 
 
 
 simple | grep | egrep | sed | [sed (GNU)](http://www.gnu.org/software/sed/manual/html_node/Regular-Expressions.html#Regular-Expressions)  | awk  | PCRE: perl java javascript | comment
--------|------|-------|------|------|----------------------------|------------- 
+-------|------|-------|------|------|------|----------------------------|------------- 
 `^`    | `^`  |  `^`  | `^`  | `^`  | `^`  | `^`  | &nbsp;
 `.`    | `.`  | `.`  | `.`  | `.`  | `.`  | `.` | &nbsp;
 `$`    | `$`  | `$`  | `$`  | `$`  | `$`  | `$` | &nbsp;
